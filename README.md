@@ -1,5 +1,5 @@
 # Kart oyunu
-Kullanıcı ile bilgisayar arasında geçecen bir rekabet oyunudur.
+Kullanıcı ile bilgisayar arasında geçecen bir rekabet oyunudur.<br>
 oyun açılır ve kullanıcı adı girilir
 Toplamda 16 karttan oluşur 8 futbol 8 basketbol kartı.
 Her kartın pozisyon bilgisi vardır
