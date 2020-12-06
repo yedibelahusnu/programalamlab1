@@ -1,5 +1,5 @@
 # Kart oyunu
-<strong>Kullanıcı ile bilgisayar arasında geçecen bir rekabet oyunudur.<br>
+<strong>Kullanıcı ile bilgisayar arasında geçecen bir rekabet oyunudur.<br><br>
 Oyun açılır ve kullanıcı adı girilir.<br>
 Toplamda 16 karttan oluşur 8 futbol 8 basketbol kartı.<br>
 Her kartın pozisyon bilgisi vardır.<br>
@@ -9,5 +9,5 @@ Kartlar sırayla atılmak zorunda futbolcu kartı atıldıktan sonra basketbolcu
 Kartlar ortaya kapalı bir şekilde atılır ve rastgele bir pozisyon seçilir ve kartlar açılır.<br>
 Rastgele seçilen pozisyon değeri yüksek olan kart kazanır kartı kazanan oyuncu 10 puan alır.<br>
 Kartlar pozisyon değerleri eşit gelirse kartlar geri alınır ve sıradaki kart tipi ile devam eder.<br>
-Eldeki son kart berabere kalırsa 3 kere rastgele pozisyon atılır 3 ünde de berabre kalınırsa oyun bitirilir<br>
-Oyunu en yüksek skorda olan oyuncu kazanır<br></strong>
+Eldeki son kart berabere kalırsa 3 kere rastgele pozisyon atılır 3 ünde de berabre kalınırsa oyun bitirilir.<br>
+Oyunu en yüksek skorda olan oyuncu kazanır.<br></strong>
